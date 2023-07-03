@@ -1,0 +1,66 @@
+<mxfile host="app.diagrams.net" modified="2023-07-03T11:03:39.645Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="evGqVUA-jhfw8JkkPCHU" version="21.5.2" type="github">
+  <diagram name="Page-1" id="usYa_TpJPr8mzJ48j2Pg">
+    <mxGraphModel dx="2284" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Eh5jgkDSs0oN3fCHE5nv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MfIb0nDxlkjFL8oHVbE--1" target="Eh5jgkDSs0oN3fCHE5nv-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="240" />
+              <mxPoint x="270" y="251" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MfIb0nDxlkjFL8oHVbE--1" value="&lt;b&gt;CS Tool&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh5jgkDSs0oN3fCHE5nv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Eh5jgkDSs0oN3fCHE5nv-2" target="Eh5jgkDSs0oN3fCHE5nv-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh5jgkDSs0oN3fCHE5nv-2" value="&lt;b&gt;Retailer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh5jgkDSs0oN3fCHE5nv-3" value="sends Invitation for flexipay" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh5jgkDSs0oN3fCHE5nv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Eh5jgkDSs0oN3fCHE5nv-4" target="MfIb0nDxlkjFL8oHVbE--1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh5jgkDSs0oN3fCHE5nv-4" value="&lt;b&gt;Brand&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh5jgkDSs0oN3fCHE5nv-7" value="Contacts" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh5jgkDSs0oN3fCHE5nv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Eh5jgkDSs0oN3fCHE5nv-9" target="Eh5jgkDSs0oN3fCHE5nv-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh5jgkDSs0oN3fCHE5nv-9" value="&lt;b&gt;Validation&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh5jgkDSs0oN3fCHE5nv-11" value="RFC and credit card validation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="300" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh5jgkDSs0oN3fCHE5nv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Eh5jgkDSs0oN3fCHE5nv-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Eh5jgkDSs0oN3fCHE5nv-13" value="&lt;b&gt;Accept/Reject&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh5jgkDSs0oN3fCHE5nv-15" value="User accepts or rejects credit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh5jgkDSs0oN3fCHE5nv-17" value="Retailer gets the credit" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh5jgkDSs0oN3fCHE5nv-18" value="Retailer gets the credit from flexipay system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
